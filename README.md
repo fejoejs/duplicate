@@ -1,1 +1,2 @@
+https://github.com/mgsgoms/helloworld-java-maven
 # duplicate
